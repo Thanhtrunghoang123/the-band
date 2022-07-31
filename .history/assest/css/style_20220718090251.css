@@ -1,0 +1,26 @@
+#main{
+
+}
+
+#header{
+    height: 46px;
+    background-color: #000;
+}
+#nav li{
+    display: inline-block;
+}
+#nav .subnav{
+    display: none;
+}
+
+#slider{
+
+}
+
+#content{
+
+}
+
+#footer{
+
+}
